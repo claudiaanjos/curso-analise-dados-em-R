@@ -12,12 +12,10 @@ Nesse [curso](https://www.escolavirtual.gov.br/curso/325) aprenderemos:
 - Módulo 4: Análise dos Dados na Prática
 
 
+#
 
-
-&nbsp;
-
-
-
-<a href="https://www.linkedin.com/in/claudia-nogueira-dos-anjos-b71726215/" target="_blank">
-        <img src="https://img.shields.io/badge/claudiaanjos-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/claudia-nogueira-dos-anjos-093407180/">
-</a>
+<div>
+  <p align="left">
+    <a href="https://www.linkedin.com/in/claudia-anjos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin" target="_blank"></a>
+    <a href="https://medium.com/@ndosanjosc" target="_blank"><img src="https://img.shields.io/badge/-Medium-FF5722?style=for-the-badge&logo=medium" target="_blank"></a>
+</div>
