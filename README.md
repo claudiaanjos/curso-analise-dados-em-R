@@ -4,7 +4,7 @@
 
 A análise de dados tem grande importância na tomada de decisões, auxiliando instituições na detecção de anomalias, monitoramento de indicadores ou melhoria de processos. Neste curso, você vai aprender a utilizar a linguagem R na preparação e exploração dos dados, apresentando resultados em gráficos e painéis gerenciais. Além disso, você vai conhecer conceitos iniciais de ciência de dados.
 
-Nesse [curso](https://www.escolavirtual.gov.br/curso/325) aprenderemos:
+Nesse [curso](https://www.escolavirtual.gov.br/curso/325) tivemos os seguintes tópicos:
 
 - Módulo 1: Introdução à Análise de Dados
 - Módulo 2: Fundamentos da Linguagem R
