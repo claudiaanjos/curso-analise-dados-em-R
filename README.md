@@ -1,5 +1,9 @@
 # Análise de Dados em Linguagem R
 
+<p align="center">
+<img src="https://img.shields.io/static/v1?label=Status&message=FINALIZADO&color=blue&style=for-the-badge"/>
+</p>
+
 ### 📚  Descrição
 
 A análise de dados tem grande importância na tomada de decisões, auxiliando instituições na detecção de anomalias, monitoramento de indicadores ou melhoria de processos. Neste curso, você vai aprender a utilizar a linguagem R na preparação e exploração dos dados, apresentando resultados em gráficos e painéis gerenciais. Além disso, você vai conhecer conceitos iniciais de ciência de dados.
